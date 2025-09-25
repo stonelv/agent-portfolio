@@ -1,0 +1,4 @@
+Line 1: Hello file!
+Line 2: First append.
+Another line appended.
+Another line appended.
